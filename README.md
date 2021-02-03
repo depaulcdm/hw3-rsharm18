@@ -30,4 +30,4 @@ The killer feature of `markdown-it` is very effective support of
 
 see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
 
-## THIS IS A DUMMY TEXT 3
+## THIS IS A DUMMY TEXT 3 - from hw3_branch1
