@@ -2,7 +2,7 @@
 __Ravi Kumar Sharma__
 ---
 
-## Images
+## Images -- updates from branch2 - this should resolve in conflict
 
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
